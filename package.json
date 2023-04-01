@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IvanFelipeEscobar/Employee-Tracker-CMS.git"
+    "url": "git+https://github.com/ZellyB/employee-tracker"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IvanFelipeEscobar/Employee-Tracker-CMS/issues"
+    "url": "https://github.com/ZellyB/employee-tracker/issues"
   },
-  "homepage": "https://github.com/IvanFelipeEscobar/Employee-Tracker-CMS#readme",
+  "homepage": "https://github.com/ZellyB/employee-tracker",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
