@@ -8,7 +8,7 @@ Employee Tracker is a command-line application that runs on Node.js allowing a u
 
 ## Usage
 
-Make a new Directory in your local machine and clone this Repo into it: `git@github.com:IvanFelipeEscobar/Employee-Tracker-CMS.git`
+Make a new Directory in your local machine and clone this Repo into it: `git@github.com:ZellyB/employee-tracker`
 Navigate into directory in command-line and use command `npm i` to install dependencied, then `npm start` to deploy application
 
 ## Credits
@@ -19,5 +19,5 @@ MySQL queries sent via `MySQL2` npm package
 
 Table formatting via `console.table` npm package
 
-Application created by `Ivan Felipe Escobar`
+Application created by `kelly boothe`
 # employee-tracker
